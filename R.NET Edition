@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.2",
+  "Version": "1.1.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -61,7 +61,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
+      "TlsIP": "104.16.56.6",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
