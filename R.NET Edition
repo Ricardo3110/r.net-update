@@ -37,7 +37,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO PROXY 01",
+      "Name": "VIVO",
       "FLAG": "vivo",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
