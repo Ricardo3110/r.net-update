@@ -1,1 +1,240 @@
-{"current_user_url":"https://api.github.com/user","current_user_authorizations_html_url":"https://github.com/settings/connections/applications{/client_id}","authorizations_url":"https://api.github.com/authorizations","code_search_url":"https://api.github.com/search/code?q={query}{&page,per_page,sort,order}","commit_search_url":"https://api.github.com/search/commits?q={query}{&page,per_page,sort,order}","emails_url":"https://api.github.com/user/emails","emojis_url":"https:/i.github.com/emojis","events_url":"https://api.github.com/events","feeds_url":"https://api.github.com/feeds","followers_url":"https://api.github.com/user/followers","following_url":"https://api.github.com/user/following{/target}","gists_url":"https://api.github.com/gists{/gist_id}","hub_url":"https://api.github.com/hub","issue_search_url":"https://api.github.com/search/issues?q={query}{&page,per_page,sort,order}","issues_url":"https://api.github.com/issues","keys_url":"https://api.github.com/user/keys","label_search_url":"https://api.github.com/search/labels?q={query}&repository_id={repository_id}{&page,per_page}","notifications_url":"https://api.github.com/notifications","organization_url":"https://api.github.com/orgs/{org}","organization_repositories_url":"https://api.github.com/orgs/{org}/repos{?type,page,per_page,sort}","organization_teams_url":"https://api.github.com/orgs/{org}/teams","public_gists_url":"https://api.github.com/gists/public","rate_limit_url":"https://api.github.com/rate_limit","repository_url":"https://api.github.com/repos/{owner}/{repo}","repository_search_url":"https://api.github.com/search/repositories?q={query}{&page,per_page,sort,order}","current_user_repositories_url":"https://api.github.com/user/repos{?type,page,per_page,sort}","starred_url":"https://api.github.com/user/starred{/owner}{/repo}","starred_gists_url":"https://api.github.com/gists/starred","topic_search_url":"https://api.github.com/search/topics?q={query}{&page,per_page}","user_url":"https://api.github.com/users/{user}","user_organizations_url":"https://api.github.com/user/orgs","user_repositories_url":"https://api.github.com/users/{user}/repos{?type,page,per_page,sort}","user_search_url":"https://api.github.com/search/users?q={query}{&page,per_page,sort,order}"}
+{
+  "Versão" : " 1.0.1 " ,
+  "Notas de Lançamento" : " " ,
+  "UrlUpdate" : " https://kiritosshxd.github.io/Conecta4g_site/UrlUpdate " ,
+  "Sms" : " https://kiritosshxd.github.io/Conecta4g_site/UrlSms " ,
+  "EmailFeedback" : " kiritosshxd5733@gmail.com " ,
+  "UrlContato" : " https://t.me/kiritosshxd " ,
+  "UrlTermos" : " https://kiritosshxd.github.io/Conecta4g_site/termos.html " ,
+  "Udp" : [
+    {
+      "Porta" : " 7100 "
+    },
+    {
+      "Porta" : " 7200 "
+    },
+    {
+      "Porta" : " 7300 "
+    },
+    {
+      "Porta" : " 7400 "
+    },
+    {
+      "Porta" : " 7500 "
+    }
+  ],
+  "Servidores" : [
+    {
+      "Nome" : "BRASIL" ,
+      "TYPE" : " premium " ,
+      "BANDEIRA" : " br.png " ,
+      "ServerIP" : " ricardo.r-neet.xyz " ,
+      "ServerPort" : " 22 " ,
+      "SSLPort" : " 443 " ,
+      "USUÁRIO" : " " ,
+      "PASSAR" : " "
+    },
+    {
+      "Nome" : " PREMIUM 02 | PLUS " ,
+      "TYPE" : " grátis " ,
+      "BANDEIRA" : " br.png " ,
+      "ServerIP" : " exemplo02.dominio.xyz " ,
+      "ServerPort" : " 22 " ,
+      "SSLPort" : " 443 " ,
+      "USUÁRIO" : " teste006 " ,
+      "PASS" : " 1234 "
+    }
+  ],
+  "Redes" : [
+    {
+      "Nome" : " VIVO PROXY 01 " ,
+      "BANDEIRA" : " vivo " ,
+      "Payload" : " GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " 104.16.56.6 " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Proxy "
+    },
+    {
+      "Nome" : " VIVO TLS 02 " ,
+      "BANDEIRA" : " vivo " ,
+      "Payload" : " GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " [app_host] " ,
+      "TlsIP" : " 104.18.7.80 " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " TIM PROXY 01 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive [crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " 104.16.56.6 " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Proxy "
+    },
+    {
+      "Nome" : " TIM TLS 02 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][ crlf]Conexão: Atualização[crlf] " ,
+      "SNI" : " mobilidade.cloud.caixa.gov.br " ,
+      "TlsIP" : " mobilidade.cloud.caixa.gov.br " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " TIM TLS 03 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " GET wss://m.timbancavirtual.com.br/HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " m.timbancavirtual.com.br " ,
+      "TlsIP" : " m.timbancavirtual.com.br " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " TIM TLS 04 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " GET wss://cdnjs.cloudflare.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " cdnjs.cloudflare.com " ,
+      "TlsIP" : " cdnjs.cloudflare.com " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " TIM TLS 05 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " [app_host] " ,
+      "TlsIP" : " 104.16.19.94 " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " TIM PYTHON/SOCKS 06 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " ACL HTTP/1.1[lf]Host: google.es[lf] " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Direto "
+    },
+    {
+      "Nome" : " TIM PYTHON/SOCKS 07 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf] " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Direto "
+    },
+    {
+      "Nome" : " TIM PYTHON/SOCKS 08 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " HTTP/ 2 \n HOST : m.opera.com \n\n " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Direto "
+    },
+    {
+      "Nome" : " TIM PYTHON/SOCKS 09 " ,
+      "BANDEIRA" : " tim " ,
+      "Payload" : " HTTP/1.1 [lf]CONECTAR HTTP/1.1[lf][lf]|[lf] " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Direto "
+    },
+    {
+      "Nome" : " CLARO TLS 01 " ,
+      "BANDEIRA" : " claro " ,
+      "Payload" : " GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][ crlf]Conexão: Atualização[crlf] " ,
+      "SNI" : " mobilidade.cloud.caixa.gov.br " ,
+      "TlsIP" : " mobilidade.cloud.caixa.gov.br " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " CLARO TLS 02 " ,
+      "BANDEIRA" : " claro " ,
+      "Payload" : " GET ssl://parceirosclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][crlf]Connection: Atualizar[crlf] " ,
+      "SNI" : " parceirosclaro.com.br " ,
+      "TlsIP" : " parceirosclaro.com.br " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    },
+    {
+      "Nome" : " CLARO SSL 03 " ,
+      "BANDEIRA" : " claro " ,
+      "Carga útil" : " " ,
+      "SNI" : " dns.web.whatsapp.com " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Ssl "
+    },
+    {
+      "Nome" : " CLARO SSL 04 " ,
+      "BANDEIRA" : " claro " ,
+      "Carga útil" : " " ,
+      "SNI" : " m.waze.com " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Ssl "
+    },
+    {
+      "Nome" : " CLARO SSL 05 " ,
+      "BANDEIRA" : " claro " ,
+      "Carga útil" : " " ,
+      "SNI" : " web.whatsapp.com " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Ssl "
+    },
+    {
+      "Nome" : " CLARO SSL 06 " ,
+      "BANDEIRA" : " claro " ,
+      "Carga útil" : " " ,
+      "SNI" : " m.twitter.com " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Ssl "
+    },
+    {
+      "Nome" : " OI PROXY 01 " ,
+      "BANDEIRA" : " oi " ,
+      "Payload" : " GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf] " ,
+      "SNI" : " " ,
+      "TlsIP" : " " ,
+      "ProxyIP" : " 104.16.56.6 " ,
+      "ProxyPort" : " 80 " ,
+      "Informações" : " Proxy "
+    },
+    {
+      "Nome" : " OI TLS 02 " ,
+      "BANDEIRA" : " oi " ,
+      "Payload" : " GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][ crlf]Conexão: Atualização[crlf] " ,
+      "SNI" : " mobilidade.cloud.caixa.gov.br " ,
+      "TlsIP" : " mobilidade.cloud.caixa.gov.br " ,
+      "ProxyIP" : " " ,
+      "ProxyPort" : " " ,
+      "Informações" : " Tlsws "
+    }
+  ]
+}
