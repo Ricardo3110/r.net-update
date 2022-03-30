@@ -1,10 +1,10 @@
 {
-  "Version": "1.1.3",
+  "Version": "1.0.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
   "EmailFeedback": "ricardo.guimaraes1986@gmail.com",
-  "UrlContato": "https://t.me/kiritosshxd",
+  "UrlContato": "https://wa.me/message/5OXBLUYWWCWGN1",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "Udp": [
     {
@@ -37,7 +37,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO",
+      "Name": "VIVO PREMIUM",
       "FLAG": "vivo",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br [protocol][crlf]Host: [app_host][crlf]X-Forwarded-For: [app_host][crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -47,7 +47,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "TIM",
+      "Name": "TIM PREMIUM",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ricardo.r-neet.xyz",
@@ -57,7 +57,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO",
+      "Name": "CLARO PREMIUM",
       "FLAG": "claro",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
@@ -67,7 +67,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "OI",
+      "Name": "OI PREMIUM",
       "FLAG": "oi",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
