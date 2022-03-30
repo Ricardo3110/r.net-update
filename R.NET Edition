@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -53,7 +53,7 @@
       "SNI": "ricardo.r-neet.xyz",
       "TlsIP": "104.16.18.94",
       "ProxyIP": "",
-      "ProxyPort": "",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
