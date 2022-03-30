@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -33,16 +33,6 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "PREMIUM 02 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "exemplo02.dominio.xyz",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "teste006",
-      "PASS": "1234"
     }
   ],
   "Networks": [
