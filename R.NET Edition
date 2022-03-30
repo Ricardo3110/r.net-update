@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.6",
+  "Version": "1.0.7",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -49,10 +49,10 @@
     {
       "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "GET ssl://cndjs.cloudflare.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][crlf]Connection: Upgrade[crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ricardo.r-neet.xyz[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ricardo.r-neet.xyz",
-      "TlsIP": "104.16.18.94",
-      "ProxyIP": "",
+      "TlsIP": "ricardo.r-neet.xyz",
+      "ProxyIP": "104.16.18.94",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
