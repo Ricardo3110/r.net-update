@@ -6,6 +6,8 @@
   "EmailFeedback": "ricardo.guimaraes1986@gmail.com",
   "UrlContato": "https://wa.me/message/5OXBLUYWWCWGN1",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+"CheckUser": "true",
+  "FormatCheck": "ddmmyyyy",
   "Udp": [
     {
       "Porta": "7100"
@@ -29,6 +31,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ricardo.r-neet.xyz",
+"CheckUser": "http://158.69.185.82:8989/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
