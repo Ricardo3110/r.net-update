@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.0",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
   "EmailFeedback": "ricardo.guimaraes1986@gmail.com",
   "UrlContato": "https://wa.me/message/5OXBLUYWWCWGN1",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "http://158.69.185.82/",
 "CheckUser": "true",
   "FormatCheck": "ddmmyyyy",
   "Udp": [
@@ -23,6 +23,18 @@
     },
     {
       "Porta": "7500"
+    },
+   {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    },
+    {
+      "Porta": "7800"
+    },
+    {
+      "Porta": "7900"
     }
   ],
   "Servers": [
