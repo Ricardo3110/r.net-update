@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
   "EmailFeedback": "ricardo.guimaraes1986@gmail.com",
-  "UrlContato": "https://wa.me/message/5OXBLUYWWCWGN1",
+  "UrlContato": "",
   "UrlTermos": "http://painel.r-neet.xyz/",
 "CheckUser": "true",
   "FormatCheck": "ddmmyyyy",
