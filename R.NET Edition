@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -87,6 +87,16 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ricardo.r-neet.xyz",
       "TlsIP": "104.16.19.94",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM PREMIUM-3",
+      "FLAG": "claro",
+      "Payload": "GET wss://cdnjs.cloudflare.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdnjs.cloudflare.com",
+      "TlsIP": "104.16.18.94",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
