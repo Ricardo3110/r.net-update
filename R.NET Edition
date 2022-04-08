@@ -43,7 +43,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ricardo.r-neet.xyz",
-"CheckUser": "http://209.14.71.249:8989/checkUser",
+"CheckUser": "http://209.14.71.249:8080/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
