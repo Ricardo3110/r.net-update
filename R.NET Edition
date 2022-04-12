@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.1",
+  "Version": "1.2.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -174,12 +174,12 @@
      {
       "Name": "OI PREMIUM-2",
       "FLAG": "oi",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.45.135",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "OI PREMIUM-3",
