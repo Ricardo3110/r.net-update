@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.5",
+  "Version": "1.1.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -72,7 +72,7 @@
       "Info": "Tlsws"
     },
      {
-      "Name": "VIVO PREMIUM-2",
+      "Name": "VIVO PREMIUM-3",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ricardo.r-neet.xyz",
