@@ -1,5 +1,5 @@
 {
-  "Version": "1.2.9",
+  "Version": "1.3.0",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -173,6 +173,16 @@
       "Payload": "GET wss://www.partageshoppingbetim.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.partageshoppingbetim.com.br",
       "TlsIP": "www.partageshoppingbetim.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+   {
+      "Name": "TIM PREMIUM-6",
+      "FLAG": "tim",
+      "Payload": "GET wss://exclusivamodaintim.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "exclusivamodaintim.com.br",
+      "TlsIP": "exclusivamodaintim.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
