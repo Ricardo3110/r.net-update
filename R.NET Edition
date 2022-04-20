@@ -1,5 +1,5 @@
 {
-  "Version": "1.4.8",
+  "Version": "1.4.9",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -155,9 +155,9 @@
      {
       "Name": "CLARO PREMIUM-2",
       "FLAG": "claro",
-      "Payload": "GET wss://chaveiroclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "chaveiroclaro.com.br",
-      "TlsIP": "chaveiroclaro.com.br",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
