@@ -1,5 +1,5 @@
 {
-  "Version": "1.4.9",
+  "Version": "1.5.0",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -168,16 +168,6 @@
       "Payload": "GET wss://piloto-mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "piloto-mobilidade.cloud.caixa.gov.br",
       "TlsIP": "piloto-mobilidade.cloud.caixa.gov.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-   {
-      "Name": "CLARO PREMIUM-4",
-      "FLAG": "claro",
-      "Payload": "GET wss://brunaclaro.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "brunaclaro.com.br",
-      "TlsIP": "brunaclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
