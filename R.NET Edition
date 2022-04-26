@@ -1,5 +1,5 @@
 {
-  "Version": "1.5.3",
+  "Version": "1.5.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -39,7 +39,7 @@
   ],
   "Servers": [
     {
-      "Name": "BRASIL-1",
+      "Name": "BRASIL",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ricardo.r-neet.xyz",
