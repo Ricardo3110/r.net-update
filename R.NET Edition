@@ -1,5 +1,5 @@
 {
-  "Version": "1.5.1",
+  "Version": "1.5.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -39,11 +39,22 @@
   ],
   "Servers": [
     {
-      "Name": "BRASIL",
+      "Name": "BRASIL-1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ricardo.r-neet.xyz",
 "CheckUser": "http://209.14.71.249:9090/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "BRASIL-2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "ricardo1.r-neet.xyz",
+"CheckUser": "http://52.23.162.89:9090/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
