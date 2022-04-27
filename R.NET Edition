@@ -1,5 +1,5 @@
 {
-  "Version": "1.5.6",
+  "Version": "1.5.7",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -107,7 +107,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
-      "TlsIP": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -127,7 +127,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://cutim.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cutim.com.br",
-      "TlsIP": "cutim.com.br",
+      "TlsIP": "104.21.4.149",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -137,7 +137,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://www.partageshoppingbetim.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "www.partageshoppingbetim.com.br",
-      "TlsIP": "www.partageshoppingbetim.com.br",
+      "TlsIP": "104.21.61.13",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
