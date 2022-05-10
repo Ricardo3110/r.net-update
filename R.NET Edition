@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -110,7 +110,7 @@
       "TlsIP": "",
       "ProxyIP": "cutim.com.br",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Direct"
     },
     {
       "Name": "TIM PREMIUM-4",
