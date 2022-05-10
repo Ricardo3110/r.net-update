@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -105,11 +105,11 @@
     {
       "Name": "TIM PREMIUM-3",
       "FLAG": "tim",
-      "Payload": "GET wss://cutim.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "cutim.com.br",
-      "TlsIP": "104.21.4.149",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "Payload": "GET wss://[host] HTTP/1.1[crlf]Host: ricardo.r-neet.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "80",
+      "ProxyPort": "104.21.4.149",
       "Info": "Tlsws"
     },
     {
