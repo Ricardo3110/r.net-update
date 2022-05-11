@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.6",
+  "Version": "1.0.7",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -91,6 +91,17 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO -WAP",
+      "FLAG": "vivo",
+      "Payload": "CONNECT [host_port] HTTP/1.1\r
+Host: [host_port][split]\r\n\r\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "200.142.130.104",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "TIM PREMIUM-1",
