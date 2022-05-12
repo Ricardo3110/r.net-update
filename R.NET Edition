@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.4",
+  "Version": "1.8.5",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -168,7 +168,7 @@ Host: [host_port][split]\r\n\r\n",
       "FLAG": "claro",
       "Payload": "GET wss://mobilidade.des.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "mobilidade.des.cloud.caixa.gov.br",
-      "TlsIP": "shop.3cyber.com",
+      "TlsIP": "chaveiroclaro.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
