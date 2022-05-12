@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.3",
+  "Version": "1.8.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -166,9 +166,9 @@ Host: [host_port][split]\r\n\r\n",
    {
       "Name": "CLARO PREMIUM-3",
       "FLAG": "claro",
-      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "content.akross.com.br",
-      "TlsIP": "200.241.228.226",
+      "Payload": "GET wss://mobilidade.des.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "mobilidade.des.cloud.caixa.gov.br",
+      "TlsIP": "shop.3cyber.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
