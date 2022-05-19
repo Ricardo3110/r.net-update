@@ -1,5 +1,5 @@
 {
-  "Version": "1.8.7",
+  "Version": "1.8.8",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -166,9 +166,9 @@ Host: [host_port][split]\r\n\r\n",
    {
       "Name": "CLARO PREMIUM-3",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "104.16.53.111",
+      "Payload": "GET wss://foldo.ro HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "foldo.ro",
+      "TlsIP": "foldo.ro",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
