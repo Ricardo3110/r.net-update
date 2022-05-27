@@ -1,5 +1,5 @@
 {
-  "Version": "1.9.0",
+  "Version": "1.9.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -148,6 +148,16 @@
       "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "content.akross.com.br",
       "TlsIP": "content.akross.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO PREMIUM-2",
+      "FLAG": "claro",
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "atendimento.descomplica.com.br",
+      "TlsIP": "199.60.103.228",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
