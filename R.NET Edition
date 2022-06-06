@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.4",
+  "Version": "2.0.5",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -53,7 +53,7 @@
   "Networks": [
     
 {
-      "Name": "🔄POR FAVOR SELECIONE  A SUA OPERADORA🔄",
+      "Name": "⚠️ESCOLHA SUA OPERADORA AQUI⚠️",
       "FLAG": "",
       "Payload": "",
       "SNI": "",
@@ -173,7 +173,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO PREMIU-2",
+      "Name": "CLARO PREMIUM-2",
       "FLAG": "claro",
       "Payload": "GET wss://api.new.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.new.livestream.com",
@@ -183,7 +183,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO PREMIU-3",
+      "Name": "CLARO PREMIUM-3",
       "FLAG": "claro",
       "Payload": "GET wss://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "icanhazip.com",
