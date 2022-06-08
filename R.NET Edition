@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.0",
+  "Version": "2.1.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -53,14 +53,14 @@
   "Networks": [
     
 {
-      "Name": "⚠️ESCOLHA SUA OPERADORA AQUI⚠️",
+      "Name": "🔄ESCOLHA SUA OPERADORA🔄",
       "FLAG": "",
       "Payload": "",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": ""
+      "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
     },
    {
       "Name": "VIVO PREMIUM-1",
@@ -158,6 +158,16 @@
       "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.4.175",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+   {
+      "Name": "TIM PREMIUM-5",
+      "FLAG": "tim",
+      "Payload": "GET wss://blog.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "blog.alura.com.br",
+      "TlsIP": "188.114.96.3",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
