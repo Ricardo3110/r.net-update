@@ -1,5 +1,5 @@
 {
-  "Version": "2.1.7",
+  "Version": "2.1.9",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -129,6 +129,16 @@
       "SNI": "lojaonline.vivo.com.br",
       "TlsIP": "",
       "ProxyIP": "104.24.25.34",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO PREMIUM-8",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "lojaonline.vivo.com.br",
+      "TlsIP": "",
+      "ProxyIP": "104.24.24.34",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
