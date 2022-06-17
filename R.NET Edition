@@ -1,5 +1,5 @@
 {
-  "Version": "2.3.0",
+  "Version": "2.3.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -266,8 +266,8 @@
       "Name": "CLARO-2",
       "FLAG": "claro",
       "Payload": "GET wss://ct.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "api-new2.new.livestream.com",
-      "TlsIP": "api-new2.new.livestream.com",
+      "SNI": "ctlivestream.com",
+      "TlsIP": "ct.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
