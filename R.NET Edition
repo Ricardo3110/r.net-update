@@ -285,9 +285,9 @@
     {
       "Name": "CLARO-4",
       "FLAG": "claro",
-      "Payload": "GET wss://help.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "help.livestream.com",
-      "TlsIP": "help.livestream.com",
+      "Payload": "GET wss://vimeo.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vimeo.livestream.com",
+      "TlsIP": "vimeo.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
