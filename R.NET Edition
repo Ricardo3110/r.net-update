@@ -1,5 +1,5 @@
 {
-  "Version": "2.3.5",
+  "Version": "2.3.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -110,7 +110,7 @@
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
    {
       "Name": "VIVO-6",
