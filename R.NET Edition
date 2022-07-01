@@ -1,5 +1,5 @@
 {
-  "Version": "2.4.5",
+  "Version": "2.4.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -115,9 +115,9 @@
    {
       "Name": "VIVO-6",
       "FLAG": "vivo",
-      "Payload": "GET wss://c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "c6bank.com.br",
-      "TlsIP": "c6bank.com.br",
+      "Payload": "GET wss://cdn.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "cdn.c6bank.com.br",
+      "TlsIP": "cdn.c6bank.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
