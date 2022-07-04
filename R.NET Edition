@@ -1,5 +1,5 @@
 {
-  "Version": "2.4.8",
+  "Version": "2.4.9",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -95,9 +95,9 @@
     {
       "Name": "VIVO-4",
       "FLAG": "vivo",
-      "Payload": "GET wss://extranet.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "extranet.vivo.com.br",
-      "TlsIP": "104.24.11.16",
+      "Payload": "GET wss://digeverse.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "digeverse.com",
+      "TlsIP": "digeverse.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
