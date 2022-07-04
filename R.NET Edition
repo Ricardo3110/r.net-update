@@ -1,5 +1,5 @@
 {
-  "Version": "2.5.1",
+  "Version": "2.5.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -98,7 +98,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "digeverse.com",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
