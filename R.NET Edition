@@ -1,5 +1,5 @@
 {
-  "Version": "2.5.5",
+  "Version": "2.5.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -63,7 +63,7 @@
       "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
     },
    {
-      "Name": "VIVO-1",
+      "Name": "VIVO-EASY-1",
       "FLAG": "vivo",
       "Payload": "GET wss://web.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "web.vivo.com.br",
@@ -73,7 +73,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "VIVO-2",
+      "Name": "VIVO-EASY-2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -83,7 +83,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO-3",
+      "Name": "VIVO-TURBO-1",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -93,7 +93,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO-4",
+      "Name": "VIVO-TURBO-2",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
