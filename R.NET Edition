@@ -122,7 +122,7 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
-{
+   {
       "Name": "VIVO-7",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
@@ -132,16 +132,6 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
- {
-      "Name": "VIVO-7",
-      "FLAG": "vivo",
-      "Payload": "GET wss://gedoc.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "gedoc.vivo.com.br",
-      "TlsIP": "104.16.56.6",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-   },
      {
       "Name": "TIM-1",
       "FLAG": "tim",
