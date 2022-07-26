@@ -1,5 +1,5 @@
 {
-  "Version": "2.6.6",
+  "Version": "2.6.7",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -98,7 +98,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "loja.vivo.com.br",
+      "ProxyIP": "qa-minhaclaro.claro.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
