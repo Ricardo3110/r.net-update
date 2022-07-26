@@ -1,5 +1,5 @@
 {
-  "Version": "2.6.3",
+  "Version": "2.6.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -65,10 +65,10 @@
    {
       "Name": "VIVO-1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.35.118.119",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
