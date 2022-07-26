@@ -1,5 +1,5 @@
 {
-  "Version": "2.6.5",
+  "Version": "2.6.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -78,7 +78,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.35.118.90",
+      "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -88,7 +88,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.166.70",
+      "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -98,7 +98,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.166.122",
+      "ProxyIP": "loja.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
