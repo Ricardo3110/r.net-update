@@ -1,5 +1,5 @@
 {
-  "Version": "2.6.7",
+  "Version": "2.6.8",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -63,7 +63,7 @@
       "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
     },
    {
-      "Name": "VIVO-1",
+      "Name": "VIVO-1 (FLARE)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
@@ -73,37 +73,37 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO-2",
+      "Name": "VIVO-2 (FRONT)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "live.vivo.com.br",
+      "ProxyIP": "13.226.52.105",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
 {
-      "Name": "VIVO-3",
+      "Name": "VIVO-3 (FRONT)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "recarga.vivo.com.br",
+      "ProxyIP": "13.227.126.79",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
 {
-      "Name": "VIVO-4",
+      "Name": "VIVO-4 (FRONT)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d2fdr5e8t2knjg.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "qa-minhaclaro.claro.com.br",
+      "ProxyIP": "13.227.126.99",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
   {
-      "Name": "VIVO-5",
+      "Name": "VIVO-5 (FLARE)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
