@@ -1,5 +1,5 @@
 {
-  "Version": "2.7.0",
+  "Version": "2.7.1",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -115,9 +115,9 @@
    {
       "Name": "TIM-1",
       "FLAG": "tim",
-      "Payload": "GET wss://blog.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "blog.alura.com.br",
-      "TlsIP": "blog.alura.com.br",
+      "Payload": "GET wss://bam.nr-data.net HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
