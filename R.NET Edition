@@ -1,5 +1,5 @@
 {
-  "Version": "2.7.3",
+  "Version": "2.7.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -63,22 +63,22 @@
       "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
     },
    {
-      "Name": "VIVO-1 (AZION)",
+      "Name": "VIVO-1 (FLARE)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: qny1kuny7c.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "152.255.23.118",
+      "ProxyIP": "104.18.6.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO-2 (AZION)",
+      "Name": "VIVO-2 (FLARE)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: qny1kuny7c.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "152.255.23.139",
+      "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
