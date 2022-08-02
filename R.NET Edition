@@ -1,5 +1,5 @@
 {
-  "Version": "2.8.3",
+  "Version": "2.8.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -63,7 +63,7 @@
       "Info": "POR FAVOR SELECIONE AQUI A SUA OPERADORA"
     },
    {
-      "Name": "VIVO-1 (FRONT)",
+      "Name": "VIVO-1 (AGILE)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -73,7 +73,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO-2 (FRONT)",
+      "Name": "VIVO-2 (AGILE)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -83,7 +83,7 @@
       "Info": "Proxy"
     },
 {
-      "Name": "VIVO-3 (FRONT)",
+      "Name": "VIVO-3 (AGILE)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -93,7 +93,7 @@
       "Info": "Proxy"
     },
 {
-      "Name": "VIVO-4 (FRONT)",
+      "Name": "VIVO-4 (AGILE)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -103,12 +103,12 @@
       "Info": "Proxy"
     },
   {
-      "Name": "VIVO-5 (FLARE)",
+      "Name": "VIVO-5 (EASY)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "172.67.165.43",
+      "ProxyIP": "104.18.6.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
