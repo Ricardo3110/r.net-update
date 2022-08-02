@@ -1,5 +1,5 @@
 {
-  "Version": "2.8.2",
+  "Version": "2.8.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -65,7 +65,7 @@
    {
       "Name": "VIVO-1 (FRONT)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dcnyhdymykcd5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.85.213.30",
@@ -75,7 +75,7 @@
     {
       "Name": "VIVO-2 (FRONT)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dcnyhdymykcd5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.126.42",
@@ -85,7 +85,7 @@
 {
       "Name": "VIVO-3 (FRONT)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dcnyhdymykcd5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.126.79",
@@ -95,7 +95,7 @@
 {
       "Name": "VIVO-4 (FRONT)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dcnyhdymykcd5.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.126.99",
