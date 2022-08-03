@@ -1,5 +1,5 @@
 {
-  "Version": "2.8.5",
+  "Version": "2.8.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/R.NET%20Edition",
   "Sms": "https://raw.githubusercontent.com/Ricardo3110/r.net-update/main/SMS%20update",
@@ -102,8 +102,18 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+{
+      "Name": "VIVO-5 (AGILE)",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: q30g0nu681975n5883.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "13.33.94.94",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
   {
-      "Name": "VIVO-5 (EASY)",
+      "Name": "VIVO-6 (EASY)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
